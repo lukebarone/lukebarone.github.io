@@ -1,4 +1,4 @@
-{::nomarkdown}<a href="https://github.com/lukebarone/"><img src="static/images/github.png" alt="GitHub account for Luke Barone" /></a><a href="https://www.linkedin.com/in/lukebarone"><img src="static/images/linkedin.png" width=32 height=32 alt="LinkedIn for Luke Barone"/></a><a href="https://stackexchange.com/users/20957/canadian-luke"><img src="static/images/so-icon.png" alt="Stack Exchange account" width=32 height=32 /></a>{:/nomarkdown}
+{::nomarkdown}<a href="https://github.com/lukebarone/"><img src="static/images/github.png" alt="GitHub account for Luke Barone" /></a>/<a href="https://www.linkedin.com/in/lukebarone"><img src="static/images/linkedin.png" width=32 height=32 alt="LinkedIn for Luke Barone"/></a>/<a href="https://stackexchange.com/users/20957/canadian-luke"><img src="static/images/so-icon.png" alt="Stack Exchange account" width=32 height=32 /></a>{:/nomarkdown}
 
 About Me
 ===
