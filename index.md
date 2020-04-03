@@ -1,3 +1,5 @@
+<a href="https://github.com/lukebarone/"><img src="static/images/github.png" alt="GitHub account for Luke Barone" /></a> | <a href="https://www.linkedin.com/in/lukebarone"><img src="static/images/linkedin.png" width=32 height=32 alt="LinkedIn for Luke Barone"/></a> | <a href="https://stackexchange.com/users/20957/canadian-luke"><img src="static/images/so-icon.png" alt="Stack Exchange account" width=32 height=32 /></a>
+
 About Me
 ===
 
@@ -83,3 +85,8 @@ Konica Minolta Business Solutions
   - Includes many manufacturers who work with other OEMs
 - Device and software end-user and IT Staff training
 - Device assembly, delivery, and disposal
+
+
+---
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
