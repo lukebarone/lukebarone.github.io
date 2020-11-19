@@ -15,7 +15,7 @@ Favourite Technologies to use
 ===
 <dl>
     <dt>Ansible</dt>
-    <dd>Playbooks are essential for setting up infrastructure quickly! I love being able to test out and roll out configuration changes in a safe, reliable manner. Add in `git`, and you can roll back anytime! 5 stars!</dd>
+    <dd><p>Playbooks are essential for setting up infrastructure quickly! I love being able to test out and roll out configuration changes in a safe, reliable manner. Add in `git`, and you can roll back anytime! 5 stars!</p></dd>
     <dt>Python3</dt>
     <dd><p>Although I am only learning at this point, this has been a great tool for automation where scripts in Bash simply won't work. I have scripts to scrape info from many status-checking websites; I have scripts that interact with network equipment over SSH that won't access shell scripts or SSH Keys. Add in the amazing projects based on it, and you'll fall in love with it too!</p><p>All my repositories with Python Scripts will be checked against <a href="http://pep8online.com/">PEP Online</a> before being committed to Master</p></dd>
     <dt>Bash Scripting</dt>
@@ -38,6 +38,7 @@ School District No57 (Prince George)
   - Includes configuration changes en masse
   - Includes imaging new and existing systems with one golden, universal image
 - Provide consultation with all levels in the organization as needed on technical requests
+- Maintain a positive rapport with Staff and Students at all levels
 
 **Extra Duties I have taken on:**
 - Documenting complex protocols and installations for unique situations
@@ -47,6 +48,7 @@ School District No57 (Prince George)
 - Training technical staff - online and in person
   - Group Policy Training
   - Active Directory Training
+  - SSH Keys and Agent Training
 - Become the central point of contact for "problem solving"
 
 DDR Computers
@@ -73,7 +75,7 @@ Konica Minolta Business Solutions
 *November 2006 to April 2009*
 
 **Duties:**
-- Sole IT-person for Northern BC for customer base of 800
+- Sole IT-person for Northern BC for customer base of 800 businesses
 - All computer tasks related to the branch, as directed by the National MIS department
 - Consult with Sales Team to ensure our products will work with various customer environments
 - Manage "trunk inventory" for tools and parts needed for any situation
